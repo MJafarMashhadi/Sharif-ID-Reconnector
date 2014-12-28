@@ -1,7 +1,7 @@
 #Sharif ID Reconnector
 
 ## What is sharif id, what is this?
-Sharif ID is a account in Sharif University of Technology [Computing Center](http://itc.sharif.ir/home) that is required for accessing global internet in university and dorms. It is established to make band-width distribution among users more equal and justified. Sharif id is used as a VPN Connection. The main problem is it gets disconnected too often and in peak of use hours internet is almost inaccessible.
+Sharif ID is a account in Sharif University of Technology [Computing Center](http://itc.sharif.ir/home) that is required for accessing Internet in the university and dorm rooms. It is established to level bandwidth distribution among users. Sharif ID is used as a VPN Connection. The main problem is that it disconnects too often and in peak hours, becomes almost inaccessible.
 
 This is a simple shell script that every 30 seconds checks for connectivity to so called "Sharif ID", if it was disconnected tries to reconnect.
 
